@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KienVu1504&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&show_icons=true&hide_border=true&icon_color=FFFFFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KienVu1504&layout=compact&langs_count=8&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @KienVu1504
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C, C#, Java, HTML, PHP

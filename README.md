@@ -6,7 +6,7 @@
 
 **About me**
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/C++, C#, Java, HTML, PHP
+- 🌱 I’m currently learning C/C++, C#, Java, HTML, PHP, JavaScript
 - 📫 How to reach me:
   + Facebook: kienvu.154
   + Instagram: kienvu154

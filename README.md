@@ -10,7 +10,7 @@
 - 📫 How to reach me:
   + Facebook: kienvu.154
   + Instagram: kienvu154
-  + Spotify: 31b6eghmi5kg33b7oaphcjp54u7m
+  + Discord: KienVu#9348
   + Twitter: KienVu_154
   + Linkedin: kienvu154
 

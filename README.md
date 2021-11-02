@@ -5,6 +5,7 @@
 | ------------- | ------------- |
 
 **About me**
+- 🔰 I’m a newbie.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++, C#, Java, HTML, PHP, JavaScript
 - 📫 How to reach me:

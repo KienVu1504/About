@@ -1,3 +1,4 @@
+<!---
 <h3 align="center">
   Welcome to Kien Vu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -79,6 +80,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!--
 <img alt="KienVu1504's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KienVu1504&bg_color=30,e96443,904e95&amp&color=f75c7e&line=F85D7F&point=fff&hide_border=true" />
 
 **About me**

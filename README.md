@@ -2,6 +2,13 @@
   🔥 <a href="KienVu1504.github.io">KienVu1504.github.io</a> 🔥
 </p>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KienVu1504&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&show_icons=true&hide_border=true&icon_color=FFFFFF&include_all_commits=true&count_private=true" alt="Kien Vu's github stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KienVu1504&layout=compact&langs_count=8&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 <!---
 <h3 align="center">
   Welcome to Kien Vu's profile!

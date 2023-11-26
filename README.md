@@ -1,5 +1,5 @@
 <p align="center">
-  🔥 <a href="https://www.kotvn.icu/" target="_blank">www.kotvn.icu</a> 🔥
+  🔥 <a href="https://www.kotvn.org/" target="_blank">www.kotvn.org</a> 🔥
 </p>
 
 <!-- <p align="center">
